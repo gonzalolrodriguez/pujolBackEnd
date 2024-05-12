@@ -1,0 +1,7 @@
+Esta carpeta estaba ubicada en:
+C:\wamp64\www\
+
+Es decir, la ruta de esta carpeta es:
+C:\wamp64\www\Backend
+
+De momento, buena parte del código depende de la ubicación de esta carpeta respecto del Wamp.
